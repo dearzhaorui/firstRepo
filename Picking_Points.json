@@ -1,0 +1,40 @@
+{ 
+	"Picking_Points":[
+		{
+		    	"PPid" : "PP1",
+		    	"pose" : {"x":6.802,"y":-0.690,"z":-0.661},
+		    	"isAssigned" : false
+
+		},
+		{
+		    	"PPid" : "PP2",
+		    	"pose":{"x":8.119,"y":-0.893,"z":-0.660},
+		    	"isAssigned":false
+		},
+		{
+		    	"PPid" : "PP3",
+		    	"pose":{"x":8.520,"y":-0.594,"z":0.050},
+		    	"isAssigned":false
+
+		},
+		{
+		    	"PPid" : "PP4",
+		    	"pose":{"x":8.520,"y":-0.594,"z":0.050},
+		    	"isAssigned":false
+		},
+		{
+		    	"PPid" : "PP5",
+		    	"pose":{"x":7.684,"y":0.729,"z":0.739},
+		    	"isAssigned":false
+
+		},
+		{
+		    	"PPid" : "PP6",
+		    	"pose":{"x":6.271,"y":0.558,"z":0.711},
+		    	"isAssigned":false
+
+		}
+	]
+
+}
+
